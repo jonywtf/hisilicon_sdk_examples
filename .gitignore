@@ -1,0 +1,17 @@
+*
+!*/
+!*.h
+!*.c
+!*.ini
+
+!*.bmp
+
+!CMakeLists.txt
+!Makefile
+!readme
+!*.txt
+
+!.gitignore
+!*/.gitignore
+
+cmake-build*
